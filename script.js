@@ -13,7 +13,7 @@ function add() {
     return
   }
 
-  alert("Adcionado com sucesso✅")
+  alert("Adicionado com sucesso✅")
   nlwSetup.addDay(today)
 }
 
